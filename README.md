@@ -45,6 +45,21 @@ Application-generated content was used as the creative foundation for real-world
 
 ## Local Setup
 
+### Requirements
+
+- Python 3.10 or newer (Python 3.11 recommended)
+- Ollama installed and running
+- Llama 3 model
+- Phi-3 model
+
+
+### Requirements
+
+- Python 3.11 recommended
+- Ollama installed and running
+- Llama 3 model
+- Phi-3 model
+
 1. Clone the repository:
 
    `git clone https://github.com/raverer/wholebite-ai-agency.git`
