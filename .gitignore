@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# IDE
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Testing and cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local content, private data and generated outputs
+/content/
+/data/
+/outputs/
+
+# Local application memory
+/app/memory/*.json
+
+# macOS metadata
+.DS_Store
+
+# Backup files
+*.bak
+
+# Experimental V2 architecture (not part of this release)
+/app/agents_v2/
+/app/pipelines/content_pipeline_v2.py
+
+# Empty or obsolete files
+/app.utils.formatter.py
+/app/config/settings.py
