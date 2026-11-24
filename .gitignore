@@ -54,3 +54,6 @@ htmlcov/
 # Empty or obsolete files
 /app.utils.formatter.py
 /app/config/settings.py
+
+# Preserved old virtual environment
+venv_backup/
